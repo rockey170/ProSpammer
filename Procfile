@@ -1,1 +1,1 @@
-worker: python3 Kingbot.py
+worker: python3 beast.py
