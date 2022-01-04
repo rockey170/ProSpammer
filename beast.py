@@ -114,8 +114,7 @@ async def start_yukki():
 
         print("String 1 Found")
 
-        idk = TelegramClient(session_name, a, b)
-
+        idk = TelegramClient(StringSession(session_name), a, b)
         try:
 
             print("Booting Up The Client 1")
