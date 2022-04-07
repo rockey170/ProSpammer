@@ -1637,7 +1637,7 @@ _______  _  _  _____  _ _
 
 print(text)
 
-print("for Radicle 🔥")
+print("Deployed 🔥")
 
 if len(sys.argv) not in (1, 3, 4):
 
