@@ -123,9 +123,9 @@ async def start_yukki():
 
             botme = await idk.get_me()
 
-            await idk(functions.channels.JoinChannelRequest(channel="@BeastX_Bots"))
+            await idk(functions.channels.JoinChannelRequest(channel="@foxdevchann"))
 
-            await idk(functions.channels.JoinChannelRequest(channel="@BeastX_Support"))
+            await idk(functions.channels.JoinChannelRequest(channel="@foxdevchann"))
 
             botid = telethon.utils.get_peer_id(botme)
 
@@ -171,9 +171,9 @@ async def start_yukki():
 
             await ydk.start()
 
-            await ydk(functions.channels.JoinChannelRequest(channel="@BeastX_Bots"))
+            await ydk(functions.channels.JoinChannelRequest(channel="@foxdevchann"))
 
-            await ydk(functions.channels.JoinChannelRequest(channel="@BeastX_Support"))
+            await ydk(functions.channels.JoinChannelRequest(channel="@foxdevchann"))
 
             botme = await ydk.get_me()
 
@@ -219,9 +219,9 @@ async def start_yukki():
 
             await  wdk.start()
 
-            await wdk(functions.channels.JoinChannelRequest(channel="@BeastX_Bots"))
+            await wdk(functions.channels.JoinChannelRequest(channel="@foxdevchann"))
 
-            await wdk(functions.channels.JoinChannelRequest(channel="@BeastX_Support"))
+            await wdk(functions.channels.JoinChannelRequest(channel="@foxdevchann"))
 
             botme = await wdk.get_me()
 
