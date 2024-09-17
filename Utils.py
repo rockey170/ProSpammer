@@ -1,8 +1,8 @@
 RAID = [
-    "Great project ,do u have own cex",
-    "It is listed anywhere",
-    "Wow super token",
-    "How to buy this token",
+    "what is ur motive?", 
+    "plan of pump? ",
+    "what happened to coin",
+    "what is chain? ",
 ]
 
 
